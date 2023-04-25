@@ -1,0 +1,11 @@
+C:\Users\everest\source\repos\SourceCode\SourceCode\bin\Debug\SourceCode.exe.config
+C:\Users\everest\source\repos\SourceCode\SourceCode\bin\Debug\SourceCode.exe
+C:\Users\everest\source\repos\SourceCode\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\everest\source\repos\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.AssemblyReference.cache
+C:\Users\everest\source\repos\SourceCode\SourceCode\obj\Debug\SourceCode.Form1.resources
+C:\Users\everest\source\repos\SourceCode\SourceCode\obj\Debug\SourceCode.Properties.Resources.resources
+C:\Users\everest\source\repos\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.GenerateResource.cache
+C:\Users\everest\source\repos\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+C:\Users\everest\source\repos\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.CopyComplete
+C:\Users\everest\source\repos\SourceCode\SourceCode\obj\Debug\SourceCode.exe
+C:\Users\everest\source\repos\SourceCode\SourceCode\obj\Debug\SourceCode.pdb
