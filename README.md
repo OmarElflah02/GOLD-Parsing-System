@@ -12,7 +12,7 @@ Use [`GOLD Parser Builder setup`](http://www.goldparser.org/builder/index.htm) t
   START x=5; END
 
 ```sh
-    Lexeme           Token
+   Lexeme               Token
     START            SYMBOL_START
      x               SYMBOL_ID
      =               SYMBOL_EQ
