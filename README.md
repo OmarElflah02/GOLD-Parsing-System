@@ -2,10 +2,10 @@
 Use [`GOLD Parser Builder setup`](http://www.goldparser.org/builder/index.htm) to analyze a grammar and create the Compiled Grammar Table file used by the different implementations of the Engine.
 
 ## How It Works
-<img src="Gold parse.png" alt="Gold parse" style="width: 80%;"/>
+<img src="Gold parse.png" alt="Gold parse" style="width: 100%;"/>
 
 ## What is the difference between a token and a lexeme ?
-<img src="compliation.jpg" alt="Gold parse" style="width: 80%;"/>
+<img src="compliation.jpg" alt="Gold parse" style="width: 100%;"/>
 
 ### Example:-
 
