@@ -1,5 +1,5 @@
 # GOLD-Parsing-System
-Use [`GOLD Builder`](http://www.goldparser.org/builder/index.htm) to analyze a grammar and create the Compiled Grammar Table file used by the different implementations of the Engine.
+Use [`GOLD Parser Builder setup`](http://www.goldparser.org/builder/index.htm) to analyze a grammar and create the Compiled Grammar Table file used by the different implementations of the Engine.
 
 ## How It Works
 <img src="Gold parse.png" alt="Gold parse" style="width: 80%;"/>
